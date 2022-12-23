@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/27 06:31:32.000.239,=C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/27 22:19:32.000.613,=C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/30 08:52:07.000.201,=C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/23 23:01:42.000.440,=C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/23 23:02:19.000.297,C:\Users\Christian\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Christian\Desktop\ListaDuplamenteEncadeadas\PListaDuplamenteEncadeadas.dproj</Transaction>
+    <Transaction>2018/08/23 23:02:30.000.461,=C:\Users\Christian\Desktop\ListaDuplamenteEncadeadas\EstruturaListaLinearDinamica.pas</Transaction>
+    <Transaction>2018/08/23 23:02:35.000.949,=C:\Users\Christian\Desktop\ListaDuplamenteEncadeadas\unit_CadastroAlunos.pas</Transaction>
+  </Transactions>
+</BorlandProject>

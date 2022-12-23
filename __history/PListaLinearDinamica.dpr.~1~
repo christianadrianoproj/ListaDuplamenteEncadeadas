@@ -1,0 +1,15 @@
+program PListaLinearDinamica;
+
+uses
+  Vcl.Forms,
+  UListaLinearDinamica in 'UListaLinearDinamica.pas' {frmListaLinearDinamica},
+  EstruturaListaLinearDinamica in 'EstruturaListaLinearDinamica.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmListaLinearDinamica, frmListaLinearDinamica);
+  Application.Run;
+end.
